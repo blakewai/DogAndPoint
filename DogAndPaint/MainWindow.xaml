@@ -14,6 +14,7 @@
                 <GradientStop Color="#FFFF5D00" Offset="0.84"/>
             </LinearGradientBrush>
         </Grid.Background>
+        <TextBlock Name="InformationTextBlock"/>
         <Frame Name="MainFrame" 
                JournalOwnership="OwnsJournal"
                NavigationUIVisibility="Hidden">

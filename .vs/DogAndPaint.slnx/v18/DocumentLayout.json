@@ -1,30 +1,24 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\blake\\source\\repos\\DogAndPower\\",
+  "WorkspaceRootPath": "C:\\Users\\blake\\source\\repos\\DogAndPaint\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{51F42001-C837-4BED-A3D3-A78F516D4B41}|DogAndPower\\DogAndPower.csproj|c:\\users\\blake\\source\\repos\\dogandpower\\dogandpower\\pages\\mainpages\\authorization.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{51F42001-C837-4BED-A3D3-A78F516D4B41}|DogAndPower\\DogAndPower.csproj|solutionrelative:dogandpower\\pages\\mainpages\\authorization.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\blake\\source\\repos\\DogAndPower\\DogAndPower\\Pages\\MainPages\\Authorization.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51F42001-C837-4BED-A3D3-A78F516D4B41}|DogAndPower\\DogAndPower.csproj|C:\\Users\\blake\\source\\repos\\DogAndPower\\dogandpower\\pages\\mainpages\\authorization.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51F42001-C837-4BED-A3D3-A78F516D4B41}|DogAndPower\\DogAndPower.csproj|solutionrelative:dogandpower\\pages\\mainpages\\authorization.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\blake\\source\\repos\\DogAndPower\\DogAndPower\\Pages\\MainPages\\MainPanel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51F42001-C837-4BED-A3D3-A78F516D4B41}|DogAndPower\\DogAndPower.csproj|C:\\Users\\blake\\source\\repos\\DogAndPower\\dogandpower\\logic\\textsize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51F42001-C837-4BED-A3D3-A78F516D4B41}|DogAndPower\\DogAndPower.csproj|solutionrelative:dogandpower\\logic\\textsize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\blake\\source\\repos\\DogAndPower\\DogAndPower\\Logic\\TextSize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51F42001-C837-4BED-A3D3-A78F516D4B41}|DogAndPower\\DogAndPower.csproj|C:\\Users\\blake\\source\\repos\\DogAndPower\\dogandpower\\pages\\mainpages\\mainpanel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{51F42001-C837-4BED-A3D3-A78F516D4B41}|DogAndPower\\DogAndPower.csproj|solutionrelative:dogandpower\\pages\\mainpages\\mainpanel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\blake\\source\\repos\\DogAndPower\\DogAndPower\\Pages\\MainPages\\Authorization.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51F42001-C837-4BED-A3D3-A78F516D4B41}|DogAndPower\\DogAndPower.csproj|C:\\Users\\blake\\source\\repos\\DogAndPower\\dogandpower\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{51F42001-C837-4BED-A3D3-A78F516D4B41}|DogAndPower\\DogAndPower.csproj|solutionrelative:dogandpower\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\blake\\source\\repos\\DogAndPower\\DogAndPower\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51F42001-C837-4BED-A3D3-A78F516D4B41}|DogAndPower\\DogAndPower.csproj|C:\\Users\\blake\\source\\repos\\DogAndPower\\dogandpower\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51F42001-C837-4BED-A3D3-A78F516D4B41}|DogAndPower\\DogAndPower.csproj|solutionrelative:dogandpower\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\blake\\source\\repos\\DogAndPower\\DogAndPower\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -121,21 +115,21 @@
               "DocumentIndex": 2,
               "Title": "TextSize.cs",
               "DocumentMoniker": "C:\\Users\\blake\\source\\repos\\DogAndPower\\DogAndPower\\Logic\\TextSize.cs",
-              "RelativeDocumentMoniker": "DogAndPower\\Logic\\TextSize.cs",
+              "RelativeDocumentMoniker": "..\\DogAndPower\\DogAndPower\\Logic\\TextSize.cs",
               "ToolTip": "C:\\Users\\blake\\source\\repos\\DogAndPower\\DogAndPower\\Logic\\TextSize.cs",
-              "RelativeToolTip": "DogAndPower\\Logic\\TextSize.cs",
+              "RelativeToolTip": "..\\DogAndPower\\DogAndPower\\Logic\\TextSize.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-14T07:01:41.129Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Authorization.xaml.cs",
               "DocumentMoniker": "C:\\Users\\blake\\source\\repos\\DogAndPower\\DogAndPower\\Pages\\MainPages\\Authorization.xaml.cs",
-              "RelativeDocumentMoniker": "DogAndPower\\Pages\\MainPages\\Authorization.xaml.cs",
+              "RelativeDocumentMoniker": "..\\DogAndPower\\DogAndPower\\Pages\\MainPages\\Authorization.xaml.cs",
               "ToolTip": "C:\\Users\\blake\\source\\repos\\DogAndPower\\DogAndPower\\Pages\\MainPages\\Authorization.xaml.cs",
-              "RelativeToolTip": "DogAndPower\\Pages\\MainPages\\Authorization.xaml.cs",
+              "RelativeToolTip": "..\\DogAndPower\\DogAndPower\\Pages\\MainPages\\Authorization.xaml.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAgwB8AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-14T06:35:05.237Z"
@@ -145,21 +139,20 @@
               "DocumentIndex": 0,
               "Title": "Authorization.xaml",
               "DocumentMoniker": "C:\\Users\\blake\\source\\repos\\DogAndPower\\DogAndPower\\Pages\\MainPages\\Authorization.xaml",
-              "RelativeDocumentMoniker": "DogAndPower\\Pages\\MainPages\\Authorization.xaml",
+              "RelativeDocumentMoniker": "..\\DogAndPower\\DogAndPower\\Pages\\MainPages\\Authorization.xaml",
               "ToolTip": "C:\\Users\\blake\\source\\repos\\DogAndPower\\DogAndPower\\Pages\\MainPages\\Authorization.xaml",
-              "RelativeToolTip": "DogAndPower\\Pages\\MainPages\\Authorization.xaml",
+              "RelativeToolTip": "..\\DogAndPower\\DogAndPower\\Pages\\MainPages\\Authorization.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-04-14T06:31:20.615Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T06:31:20.615Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "MainPanel.xaml",
               "DocumentMoniker": "C:\\Users\\blake\\source\\repos\\DogAndPower\\DogAndPower\\Pages\\MainPages\\MainPanel.xaml",
-              "RelativeDocumentMoniker": "DogAndPower\\Pages\\MainPages\\MainPanel.xaml",
+              "RelativeDocumentMoniker": "..\\DogAndPower\\DogAndPower\\Pages\\MainPages\\MainPanel.xaml",
               "ToolTip": "C:\\Users\\blake\\source\\repos\\DogAndPower\\DogAndPower\\Pages\\MainPages\\MainPanel.xaml",
-              "RelativeToolTip": "DogAndPower\\Pages\\MainPages\\MainPanel.xaml",
+              "RelativeToolTip": "..\\DogAndPower\\DogAndPower\\Pages\\MainPages\\MainPanel.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-04-14T06:32:47.635Z"
             },
@@ -168,9 +161,9 @@
               "DocumentIndex": 4,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\blake\\source\\repos\\DogAndPower\\DogAndPower\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "DogAndPower\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "..\\DogAndPower\\DogAndPower\\MainWindow.xaml",
               "ToolTip": "C:\\Users\\blake\\source\\repos\\DogAndPower\\DogAndPower\\MainWindow.xaml",
-              "RelativeToolTip": "DogAndPower\\MainWindow.xaml",
+              "RelativeToolTip": "..\\DogAndPower\\DogAndPower\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-04-14T06:30:39.764Z"
             },
@@ -179,9 +172,9 @@
               "DocumentIndex": 5,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\blake\\source\\repos\\DogAndPower\\DogAndPower\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "DogAndPower\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\DogAndPower\\DogAndPower\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\blake\\source\\repos\\DogAndPower\\DogAndPower\\MainWindow.xaml.cs",
-              "RelativeToolTip": "DogAndPower\\MainWindow.xaml.cs",
+              "RelativeToolTip": "..\\DogAndPower\\DogAndPower\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAuwBoAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-14T06:30:39.151Z"

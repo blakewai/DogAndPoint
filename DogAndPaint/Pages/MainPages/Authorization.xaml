@@ -36,14 +36,21 @@
                     <ColumnDefinition Width="254*"/>
                     <ColumnDefinition Width="63*"/>
                 </Grid.ColumnDefinitions>
-                <StackPanel VerticalAlignment="Center"
-                            Grid.Column="1" Height="132" Margin="28,0,0,0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="50*"/>
+                    <RowDefinition Height="234*"/>
+                    <RowDefinition Height="40*"/>
+                </Grid.RowDefinitions>
+                <StackPanel Grid.Row="1"
+                            Grid.Column="1" Margin="0,1,0,0">
                     <TextBlock Text="Логин"
                                Name="LoginText"/>
-                    <TextBox Height="30" Margin="0,0,0,20"/>
+                    <TextBox Height="30" Margin="0,0,0,20"
+                             Name="LoginTB"/>
                     <TextBlock Text="Пароль"
                                Name="PasswordText"/>
-                    <TextBox Height="30" Margin="0,0,0,20"/>
+                    <PasswordBox Height="30" Margin="0,0,0,20"
+                                 Name="PasswordPB"/>
                 </StackPanel>
             </Grid>
         </Border>

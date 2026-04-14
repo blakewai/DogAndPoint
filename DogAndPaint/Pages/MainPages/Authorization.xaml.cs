@@ -27,9 +27,17 @@ namespace DogAndPower.Pages.MainPages
 
         private void Page_LayoutUpdated(object sender, EventArgs e)
         {
-            TextAuthorizationL.FontSize = Logic.TextSize.TextSizeLogic(10);
-            LoginText.FontSize = Logic.TextSize.TextSizeLogic(30);
-            PasswordText.FontSize = Logic.TextSize.TextSizeLogic(30);
+            var info = Application.Current.MainWindow as MainWindow;
+            if (info != null)
+            {
+                info.InformationTextBlock.Text = $"{Convert.ToInt32(LoginTB.ActualHeight)}/{Convert.ToInt32(LoginTB.ActualWidth)} - Данные по TextBox \n" +
+                                                 $"{info.ActualHeight}/{info.ActualWidth} Данные по MainWindows";
+            }
+            TextAuthorizationL.FontSize = Logic.Size.TextSizeLogic(10);
+            LoginText.FontSize = Logic.Size.TextSizeLogic(30);
+            PasswordText.FontSize = Logic.Size.TextSizeLogic(30);
+            Logic.Size.TextBoxLogic(30, LoginTB, 40, 20);
+            Logic.Size.TextPasswordLogic(30, PasswordPB, 40, 20);
         }
     }
 }

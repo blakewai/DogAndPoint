@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\blake\source\repos\DogAndPaint\DogAndPaint\obj\Debug\
+C:\Users\blake\source\repos\DogAndPaint\DogAndPaint\obj\Release\
 DogAndPower
 none
 false
-DEBUG;TRACE
+TRACE
 C:\Users\blake\source\repos\DogAndPaint\DogAndPaint\App.xaml
 31567295773
 
-9-1915896508
+9-281702731
 13-38814620
 MainWindow.xaml;Pages\MainPages\Authorization.xaml;Pages\MainPages\MainPanel.xaml;
 
-False
+True
 
