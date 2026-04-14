@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace DogAndPower.Pages.MainPages
+namespace DogAndPaint.Pages.MainPages
 {
     /// <summary>
     /// Логика взаимодействия для Authorization.xaml
@@ -25,17 +25,21 @@ namespace DogAndPower.Pages.MainPages
             InitializeComponent();
         }
 
+        private void AuthorizationBT_Click(object sender, RoutedEventArgs e)
+        {
+            //Прописать код Авторизации!!!!!
+            this.NavigationService.Navigate(new Uri("Pages/MainPages/MainPanel.xaml", UriKind.RelativeOrAbsolute));
+        }
+
         private void Page_LayoutUpdated(object sender, EventArgs e)
         {
-            var info = Application.Current.MainWindow as MainWindow;
-            if (info != null)
-            {
-                info.InformationTextBlock.Text = $"{Convert.ToInt32(LoginTB.ActualHeight)}/{Convert.ToInt32(LoginTB.ActualWidth)} - Данные по TextBox \n" +
-                                                 $"{info.ActualHeight}/{info.ActualWidth} Данные по MainWindows";
-            }
-            TextAuthorizationL.FontSize = Logic.Size.TextSizeLogic(10);
+            TextAuthorizationL.FontSize = Logic.Size.TextSizeLogic(20);
+            LogoTextBlock.FontSize = Logic.Size.TextSizeLogic(20);
+            LogoImage.Height = Logic.Size.TextSizeLogic(10);
             LoginText.FontSize = Logic.Size.TextSizeLogic(30);
             PasswordText.FontSize = Logic.Size.TextSizeLogic(30);
+            AuthorizationBT.FontSize = Logic.Size.TextSizeLogic(30);
+
             Logic.Size.TextBoxLogic(30, LoginTB, 40, 20);
             Logic.Size.TextPasswordLogic(30, PasswordPB, 40, 20);
         }

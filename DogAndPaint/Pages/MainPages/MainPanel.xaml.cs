@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace DogAndPower.Pages.MainPages
+namespace DogAndPaint.Pages.MainPages
 {
     /// <summary>
     /// Логика взаимодействия для MainPanel.xaml
@@ -23,6 +23,16 @@ namespace DogAndPower.Pages.MainPages
         public MainPanel()
         {
             InitializeComponent();
+            Logic.TitleWindowEdit.Title("Главная страница");
+        }
+
+        private void MainPanelBT_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void Page_LayoutUpdated(object sender, EventArgs e)
+        {
         }
     }
 }
