@@ -69,6 +69,14 @@
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Page Include="Pages\FrameMainPanel\Client\MainPagePanel.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\FrameMainPanel\Client\Menu.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="Pages\MainPages\Authorization.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -79,6 +87,12 @@
     </Page>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Pages\FrameMainPanel\Client\MainPagePanel.xaml.cs">
+      <DependentUpon>MainPagePanel.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\FrameMainPanel\Client\Menu.xaml.cs">
+      <DependentUpon>Menu.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Pages\MainPages\Authorization.xaml.cs">
       <DependentUpon>Authorization.xaml</DependentUpon>
     </Compile>
@@ -112,6 +126,9 @@
   </ItemGroup>
   <ItemGroup>
     <Resource Include="Image\DogAndPaint.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="DataFolder\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

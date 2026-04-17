@@ -9,23 +9,52 @@
       Title="MainPanel">
 
     <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="130*"/>
+            <ColumnDefinition Width="406*"/>
+            <ColumnDefinition Width="130*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="11*"/>
+            <RowDefinition Height="64*"/>
+        </Grid.RowDefinitions>
         <StackPanel Orientation="Horizontal"
                     VerticalAlignment="Top"
-                    HorizontalAlignment="Center">
-            <Button Name="MainPanelBT" Click="MainPanelBT_Click" Cursor="Hand" Background="{x:Null}" BorderThickness="0">
+                    HorizontalAlignment="Left" Grid.ColumnSpan="2" Height="42" Margin="156,0,0,0" Width="323">
+            <Button Name="MainPanelBT" 
+                    Click="MainPanelBT_Click" 
+                    Cursor="Hand" 
+                    Background="{x:Null}" 
+                    BorderThickness="0">
                 <StackPanel Orientation="Horizontal">
                     <Image Name="LogoImage" 
                            Source="/Image/DogAndPaint.png" 
                            Height="40"/>
                     <TextBlock Name="LogoTextBlock" 
-                               Text="СОБАКА-И ТОЧКА"
-                               FontSize="15"
-                               FontWeight="ExtraBold"
-                               Foreground="#205E45"
-                               VerticalAlignment="Center"/>
+                       Text="СОБАКА-И ТОЧКА"
+                       FontSize="15"
+                       FontWeight="ExtraBold"
+                       Foreground="#205E45"
+                       VerticalAlignment="Center"/>
                 </StackPanel>
             </Button>
 
+            <Button Name="MenuTB" 
+            Content="Меню" Click="MenuTB_Click">
+            </Button>
+            <Button Name="ProfileTB"
+            Content="Профиль" Click="ProfileTB_Click">
+
+            </Button>
+            <Button Name="Address"
+            Content="Точки" Click="Address_Click">
+
+            </Button>
         </StackPanel>
+        <Frame Grid.Row="1"
+               Grid.Column="1"
+               Name="FramesMainPanel">
+            
+        </Frame>
     </Grid>
 </Page>

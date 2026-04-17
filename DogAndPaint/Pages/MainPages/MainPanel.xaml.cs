@@ -29,6 +29,21 @@ namespace DogAndPaint.Pages.MainPages
         private void MainPanelBT_Click(object sender, RoutedEventArgs e)
         {
 
-        }    
+        }
+
+        private void MenuTB_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void ProfileTB_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void Address_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
