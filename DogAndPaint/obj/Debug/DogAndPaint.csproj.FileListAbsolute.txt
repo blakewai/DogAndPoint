@@ -39,3 +39,5 @@ C:\Users\blake\source\repos\DogAndPaint\DogAndPaint\obj\Debug\DogAndPower.exe
 C:\Users\blake\source\repos\DogAndPaint\DogAndPaint\obj\Debug\DogAndPower.pdb
 C:\Users\blake\source\repos\DogAndPaint\DogAndPaint\obj\Debug\Pages\FrameMainPanel\Client\Menu.g.cs
 C:\Users\blake\source\repos\DogAndPaint\DogAndPaint\obj\Debug\Pages\FrameMainPanel\Client\Menu.baml
+C:\Users\blake\source\repos\DogAndPaint\DogAndPaint\obj\Debug\Pages\FrameMainPanel\Client\MainPagePanel.g.cs
+C:\Users\blake\source\repos\DogAndPaint\DogAndPaint\obj\Debug\Pages\FrameMainPanel\Client\MainPagePanel.baml

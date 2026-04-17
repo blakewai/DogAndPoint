@@ -9,18 +9,13 @@
       Title="MainPanel">
 
     <Grid>
-        <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="130*"/>
-            <ColumnDefinition Width="406*"/>
-            <ColumnDefinition Width="130*"/>
-        </Grid.ColumnDefinitions>
         <Grid.RowDefinitions>
             <RowDefinition Height="11*"/>
             <RowDefinition Height="64*"/>
         </Grid.RowDefinitions>
         <StackPanel Orientation="Horizontal"
                     VerticalAlignment="Top"
-                    HorizontalAlignment="Left" Grid.ColumnSpan="2" Height="42" Margin="156,0,0,0" Width="323">
+                    HorizontalAlignment="Left" Height="42" Margin="156,0,0,0" Width="323">
             <Button Name="MainPanelBT" 
                     Click="MainPanelBT_Click" 
                     Cursor="Hand" 
@@ -52,9 +47,6 @@
             </Button>
         </StackPanel>
         <Frame Grid.Row="1"
-               Grid.Column="1"
-               Name="FramesMainPanel">
-            
-        </Frame>
+               Name="FramesMainPanel"/>
     </Grid>
 </Page>

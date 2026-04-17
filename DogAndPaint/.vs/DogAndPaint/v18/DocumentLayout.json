@@ -11,11 +11,11 @@
       "RelativeMoniker": "D:0:0:{51F42001-C837-4BED-A3D3-A78F516D4B41}|DogAndPaint.csproj|solutionrelative:pages\\mainpages\\mainpanel.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51F42001-C837-4BED-A3D3-A78F516D4B41}|DogAndPaint.csproj|c:\\users\\blake\\source\\repos\\dogandpaint\\dogandpaint\\pages\\mainpages\\mainpanel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{51F42001-C837-4BED-A3D3-A78F516D4B41}|DogAndPaint.csproj|C:\\Users\\blake\\source\\repos\\DogAndPaint\\DogAndPaint\\pages\\mainpages\\mainpanel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{51F42001-C837-4BED-A3D3-A78F516D4B41}|DogAndPaint.csproj|solutionrelative:pages\\mainpages\\mainpanel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51F42001-C837-4BED-A3D3-A78F516D4B41}|DogAndPaint.csproj|c:\\users\\blake\\source\\repos\\dogandpaint\\dogandpaint\\pages\\framemainpanel\\client\\menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{51F42001-C837-4BED-A3D3-A78F516D4B41}|DogAndPaint.csproj|C:\\Users\\blake\\source\\repos\\DogAndPaint\\DogAndPaint\\pages\\framemainpanel\\client\\menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{51F42001-C837-4BED-A3D3-A78F516D4B41}|DogAndPaint.csproj|solutionrelative:pages\\framemainpanel\\client\\menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
@@ -168,7 +168,7 @@
               "RelativeDocumentMoniker": "Pages\\MainPages\\MainPanel.xaml.cs",
               "ToolTip": "C:\\Users\\blake\\source\\repos\\DogAndPaint\\DogAndPaint\\Pages\\MainPages\\MainPanel.xaml.cs",
               "RelativeToolTip": "Pages\\MainPages\\MainPanel.xaml.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAmwBkAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwDYAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-14T16:53:25.831Z",
               "EditorCaption": ""
@@ -218,8 +218,7 @@
               "ToolTip": "C:\\Users\\blake\\source\\repos\\DogAndPaint\\DogAndPaint\\Pages\\MainPages\\Authorization.xaml",
               "RelativeToolTip": "Pages\\MainPages\\Authorization.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-04-14T15:57:58.657Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T15:57:58.657Z"
             }
           ]
         }

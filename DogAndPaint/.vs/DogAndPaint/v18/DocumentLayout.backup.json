@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\blake\\source\\repos\\DogAndPaint\\DogAndPaint\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{51F42001-C837-4BED-A3D3-A78F516D4B41}|DogAndPaint.csproj|c:\\users\\blake\\source\\repos\\dogandpaint\\dogandpaint\\pages\\framemainpanel\\client\\menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{51F42001-C837-4BED-A3D3-A78F516D4B41}|DogAndPaint.csproj|solutionrelative:pages\\framemainpanel\\client\\menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{51F42001-C837-4BED-A3D3-A78F516D4B41}|DogAndPaint.csproj|C:\\Users\\blake\\source\\repos\\DogAndPaint\\DogAndPaint\\pages\\mainpages\\mainpanel.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51F42001-C837-4BED-A3D3-A78F516D4B41}|DogAndPaint.csproj|solutionrelative:pages\\mainpages\\mainpanel.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51F42001-C837-4BED-A3D3-A78F516D4B41}|DogAndPaint.csproj|c:\\users\\blake\\source\\repos\\dogandpaint\\dogandpaint\\pages\\mainpages\\mainpanel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{51F42001-C837-4BED-A3D3-A78F516D4B41}|DogAndPaint.csproj|C:\\Users\\blake\\source\\repos\\DogAndPaint\\DogAndPaint\\pages\\mainpages\\mainpanel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{51F42001-C837-4BED-A3D3-A78F516D4B41}|DogAndPaint.csproj|solutionrelative:pages\\mainpages\\mainpanel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51F42001-C837-4BED-A3D3-A78F516D4B41}|DogAndPaint.csproj|C:\\Users\\blake\\source\\repos\\DogAndPaint\\DogAndPaint\\pages\\mainpages\\mainpanel.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51F42001-C837-4BED-A3D3-A78F516D4B41}|DogAndPaint.csproj|solutionrelative:pages\\mainpages\\mainpanel.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{51F42001-C837-4BED-A3D3-A78F516D4B41}|DogAndPaint.csproj|c:\\users\\blake\\source\\repos\\dogandpaint\\dogandpaint\\pages\\framemainpanel\\client\\mainpagepanel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{51F42001-C837-4BED-A3D3-A78F516D4B41}|DogAndPaint.csproj|solutionrelative:pages\\framemainpanel\\client\\mainpagepanel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F42001-C837-4BED-A3D3-A78F516D4B41}|DogAndPaint.csproj|C:\\Users\\blake\\source\\repos\\DogAndPaint\\DogAndPaint\\pages\\framemainpanel\\client\\menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{51F42001-C837-4BED-A3D3-A78F516D4B41}|DogAndPaint.csproj|solutionrelative:pages\\framemainpanel\\client\\menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{51F42001-C837-4BED-A3D3-A78F516D4B41}|DogAndPaint.csproj|C:\\Users\\blake\\source\\repos\\DogAndPaint\\DogAndPaint\\pages\\mainpages\\authorization.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -38,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 20,
+          "SelectedChildIndex": 23,
           "Children": [
             {
               "$type": "Bookmark",
@@ -122,7 +126,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "MainPagePanel.xaml",
+              "DocumentMoniker": "C:\\Users\\blake\\source\\repos\\DogAndPaint\\DogAndPaint\\Pages\\FrameMainPanel\\Client\\MainPagePanel.xaml",
+              "RelativeDocumentMoniker": "Pages\\FrameMainPanel\\Client\\MainPagePanel.xaml",
+              "ToolTip": "C:\\Users\\blake\\source\\repos\\DogAndPaint\\DogAndPaint\\Pages\\FrameMainPanel\\Client\\MainPagePanel.xaml",
+              "RelativeToolTip": "Pages\\FrameMainPanel\\Client\\MainPagePanel.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-17T10:34:48.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Menu.xaml",
               "DocumentMoniker": "C:\\Users\\blake\\source\\repos\\DogAndPaint\\DogAndPaint\\Pages\\FrameMainPanel\\Client\\Menu.xaml",
               "RelativeDocumentMoniker": "Pages\\FrameMainPanel\\Client\\Menu.xaml",
@@ -134,7 +150,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Size.cs",
               "DocumentMoniker": "C:\\Users\\blake\\source\\repos\\DogAndPaint\\DogAndPaint\\Logic\\Size.cs",
               "RelativeDocumentMoniker": "Logic\\Size.cs",
@@ -146,13 +162,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "MainPanel.xaml.cs",
               "DocumentMoniker": "C:\\Users\\blake\\source\\repos\\DogAndPaint\\DogAndPaint\\Pages\\MainPages\\MainPanel.xaml.cs",
               "RelativeDocumentMoniker": "Pages\\MainPages\\MainPanel.xaml.cs",
               "ToolTip": "C:\\Users\\blake\\source\\repos\\DogAndPaint\\DogAndPaint\\Pages\\MainPages\\MainPanel.xaml.cs",
               "RelativeToolTip": "Pages\\MainPages\\MainPanel.xaml.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAmwB4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAwDYAAABzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-14T16:53:25.831Z",
               "EditorCaption": ""
@@ -163,15 +179,15 @@
               "Title": "MainPanel.xaml",
               "DocumentMoniker": "C:\\Users\\blake\\source\\repos\\DogAndPaint\\DogAndPaint\\Pages\\MainPages\\MainPanel.xaml",
               "RelativeDocumentMoniker": "Pages\\MainPages\\MainPanel.xaml",
-              "ToolTip": "C:\\Users\\blake\\source\\repos\\DogAndPaint\\DogAndPaint\\Pages\\MainPages\\MainPanel.xaml",
-              "RelativeToolTip": "Pages\\MainPages\\MainPanel.xaml",
+              "ToolTip": "C:\\Users\\blake\\source\\repos\\DogAndPaint\\DogAndPaint\\Pages\\MainPages\\MainPanel.xaml*",
+              "RelativeToolTip": "Pages\\MainPages\\MainPanel.xaml*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-04-14T16:06:15.259Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Authorization.xaml.cs",
               "DocumentMoniker": "C:\\Users\\blake\\source\\repos\\DogAndPaint\\DogAndPaint\\Pages\\MainPages\\Authorization.xaml.cs",
               "RelativeDocumentMoniker": "Pages\\MainPages\\Authorization.xaml.cs",
@@ -183,7 +199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\blake\\source\\repos\\DogAndPaint\\DogAndPaint\\App.xaml",
               "RelativeDocumentMoniker": "App.xaml",
@@ -195,15 +211,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Authorization.xaml",
               "DocumentMoniker": "C:\\Users\\blake\\source\\repos\\DogAndPaint\\DogAndPaint\\Pages\\MainPages\\Authorization.xaml",
               "RelativeDocumentMoniker": "Pages\\MainPages\\Authorization.xaml",
               "ToolTip": "C:\\Users\\blake\\source\\repos\\DogAndPaint\\DogAndPaint\\Pages\\MainPages\\Authorization.xaml",
               "RelativeToolTip": "Pages\\MainPages\\Authorization.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-04-14T15:57:58.657Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T15:57:58.657Z"
             }
           ]
         }
