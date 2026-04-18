@@ -1,0 +1,41 @@
+﻿<Page x:Class="DogAndPower.Pages.PagesProfiles.DataUsers"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:DogAndPower.Pages.PagesProfiles"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="DataUsers">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="100*"/>
+            <ColumnDefinition Width="431*"/>
+            <ColumnDefinition Width="100*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="5*"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Column="1" Grid.Row="1">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="8*"/>
+                    <ColumnDefinition Width="13*"/>
+                </Grid.ColumnDefinitions>
+                <StackPanel Grid.Column="1">
+                    <TextBlock Text="ФИО" Name="UserNameTextblock" Style="{StaticResource ProfileInfo}" Margin="0,0,0,40"/>
+                    <Border Background="Gray">
+                        <StackPanel>
+                            <TextBlock Text="Дата регистрации: " Name="RegistrationInfoTextblock" Style="{StaticResource ProfileInfo}"/>
+                            <TextBlock Text="Пол: " Name="Gendertextblock" Style="{StaticResource ProfileInfo}"/>
+                            <TextBlock Text="Возраст: " Name="Agetextblock" Style="{StaticResource ProfileInfo}"/>
+                            <TextBlock Text="Адрес: " Name="Addressblock" Style="{StaticResource ProfileInfo}" TextWrapping="Wrap"/>
+                        </StackPanel>
+                    </Border>
+                </StackPanel>
+            </Grid>
+        </Grid>
+    </Grid>
+</Page>

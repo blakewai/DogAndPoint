@@ -101,6 +101,10 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="Pages\PagesProfiles\DataUsers.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Pages\FrameMainPanel\Address.xaml.cs">
@@ -123,6 +127,9 @@
     </Compile>
     <Compile Include="Pages\PagesProfiles\AboutAplocation.xaml.cs">
       <DependentUpon>AboutAplocation.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\PagesProfiles\DataUsers.xaml.cs">
+      <DependentUpon>DataUsers.xaml</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
